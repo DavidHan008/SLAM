@@ -5,7 +5,7 @@ Visual Localization and Sensing
 histogram equalization and specification
 
 ## lab2
-camera pose visualization with openGL
+world2body camera pose visualization with openGL
 
 find homography mat with homogeneous&inhomogeneous method
 
